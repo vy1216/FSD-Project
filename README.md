@@ -3,7 +3,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAdityakumarsinghcoder%2Fwildtrail-fsd-project)
 
-> **Live GitHub Repository**: [https://github.com/Adityakumarsinghcoder/wildtrail-fsd-project](https://github.com/Adityakumarsinghcoder/wildtrail-fsd-project)  
+> **Live GitHub Repository**: 
 > **Project Stack**: MongoDB, Express.js, React 18, Node.js (MERN)  
 > **Architecture**: Clean, standard, beginner-friendly full stack application designed for academic evaluation, project presentations, and viva demonstrations.
 
